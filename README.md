@@ -3,7 +3,7 @@ Projet pour Entends moi
 
 Avis Google Le projet "Hackaton 2" est réalisé dans le cadre d'une formation Data Analyst à la Wild Code School !
 
-## projet
+## Projet:
 
 La proposition du hackaton est la suivante : L'entreprise Entends Moi, basée sur Lyon, étudie les retours d'expérience des patients en milieu médical. Entends Moi, nous a confié une base de données d'avis Google, sur laquelle nous avons carte libre pour répondre à la question "Comment utiliser cette base de données pour en tirer des analyses pertinentes !
 
