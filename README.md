@@ -11,7 +11,7 @@ Notre équipe a choisi de partir sur l'analyse par catégorisation des commentai
 
 ## Equipe du Hackaton 2 :
 
-Noura Rihoum-Payet Alias [NonoRP](https://github.com/NonoRP)  
-Joachim Dessus Alias jdessus - https://github.com/jdessus  
-Camille Sogno Alias Koasamami - https://github.com/Kaosamami  
-Maikel Haddadi Alias Maikelcode - https://github.com/Maikelcode
+Noura Rihoum-Payet  [NonoRP](https://github.com/NonoRP)  
+Joachim Dessus [jdessus](https://github.com/jdessus)  
+Camille Sogno [Koasamami](https://github.com/Kaosamami)  
+Maikel Haddadi [Maikelcode](https://github.com/Maikelcode)
