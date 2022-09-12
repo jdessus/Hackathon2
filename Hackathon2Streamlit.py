@@ -8,7 +8,7 @@ st.title('PROJET HACKATON AVEC LE PARTENAIRE ENTENDS MOI ')
 st.image("https://www.entendsmoi.fr/wp-content/uploads/2022/05/Logo-Entends-moi-couleur.png",width=400)
 
 
-entendsmoi_df = pd.read_csv("https://https://raw.githubusercontent.com/jdessus/Hackathon2/main/new_top_topics.csv")
+entendsmoi_df = pd.read_csv("https://raw.githubusercontent.com/jdessus/Hackathon2/main/new_top_topics.csv")
 
 # Liste des region :
 
